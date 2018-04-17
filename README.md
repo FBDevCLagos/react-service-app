@@ -23,3 +23,4 @@ As a contributor to this project, you are required to add your name below.
 
 # License.
 MIT License.
+Copyright (c) 2018 Facebook Developer Circle
