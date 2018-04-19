@@ -11,7 +11,7 @@ npm i && npm run start
 ```
 
 # Contributing to the app.
-To contribute to the **React service app**, you'll have to fork the repo first, make changes and run locally. After completing the above said, send a detailed **PR** if any change was made. 
+To contribute to the **React service app**, you'll have to fork the repo first, make changes and run locally. After completing the above said, send a detailed **PR** if any change was made.
 
 # Code style
 React / Javascript best practices must be followed while contributing to this app.
@@ -20,6 +20,7 @@ React / Javascript best practices must be followed while contributing to this ap
 As a contributor to this project, you are required to add your name below.
 * Anayo Azuike
 * Abdulazeez Abdulazeez Adeshina
+* [Timothy Ebiuwhe](https://github.com/tandalf)
 
 # License.
 MIT License.
