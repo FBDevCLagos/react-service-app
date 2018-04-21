@@ -20,6 +20,7 @@ React / Javascript best practices must be followed while contributing to this ap
 As a contributor to this project, you are required to add your name below.
 * Anayo Azuike
 * Abdulazeez Abdulazeez Adeshina
+* Amadi Lucky Sampson
 
 # License.
 MIT License.
