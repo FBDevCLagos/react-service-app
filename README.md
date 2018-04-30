@@ -21,7 +21,6 @@ As a contributor to this project, you are required to add your name below.
 * Anayo Azuike
 * Abdulazeez Abdulazeez Adeshina
 * [Amadi Lucky Sampson ](https://github.com/w3bh4ck)
-* [Timothy Ebiuwhe](https://github.com/tandalf)
 * [Fred Adelabu](https://github.com/fredneutron)
 * [Ayobami Ogundiran](https://github.com/codingnninja)
 
