@@ -23,7 +23,7 @@ As a contributor to this project, you are required to add your name below.
 * [Amadi Lucky Sampson ](https://github.com/w3bh4ck)
 * [Fred Adelabu](https://github.com/fredneutron)
 * [Ayobami Ogundiran](https://github.com/codingnninja)
-* [Mopah Shewuri] (https://github.com/mopilo)
+* [Mopah Shewuri](https://github.com/mopilo)
 
 # License.
 MIT License.
