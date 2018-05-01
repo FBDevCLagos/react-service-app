@@ -23,6 +23,7 @@ As a contributor to this project, you are required to add your name below.
 * [Timothy Ebiuwhe](https://github.com/tandalf)
 * [Fred Adelabu](https://github.com/fredneutron)
 * [Ayobami Ogundiran](https://github.com/codingnninja)
+* [Mopah Shewuri] (https://github.com/mopilo)
 
 # License.
 MIT License.
