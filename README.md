@@ -24,6 +24,7 @@ As a contributor to this project, you are required to add your name below.
 * [Fred Adelabu](https://github.com/fredneutron)
 * [Ayobami Ogundiran](https://github.com/codingnninja)
 * [Mopah Shewuri](https://github.com/mopilo)
+* [Gbolahan Fawale](https://github.com/gbmillz)
 
 # License.
 MIT License.
