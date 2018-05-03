@@ -26,6 +26,8 @@ As a contributor to this project, you are required to add your name below.
 * [Mopah Shewuri](https://github.com/mopilo)
 * [Gbolahan Fawale](https://github.com/gbmillz)
 * [Okemmadu Eric](https://github.com/engreric)
+* [Timothy Ebiuwhe](https://github.com/tandalf)
+* [Tobi Taiwo](https://github.com/rebirthtobi)
 
 # License.
 MIT License.
