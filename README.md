@@ -22,6 +22,9 @@ As a contributor to this project, you are required to add your name below.
 * Abdulazeez Abdulazeez Adeshina
 * [Timothy Ebiuwhe](https://github.com/tandalf)
 * [Tobi Taiwo](https://github.com/rebirthtobi)
+* [Amadi Lucky Sampson ](https://github.com/w3bh4ck)
+* [Fred Adelabu](https://github.com/fredneutron)
+* [Ayobami Ogundiran](https://github.com/codingnninja)
 
 # License.
 MIT License.
