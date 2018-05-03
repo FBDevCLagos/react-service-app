@@ -25,6 +25,7 @@ As a contributor to this project, you are required to add your name below.
 * [Ayobami Ogundiran](https://github.com/codingnninja)
 * [Mopah Shewuri](https://github.com/mopilo)
 * [Gbolahan Fawale](https://github.com/gbmillz)
+* [Okemmadu Eric](https://github.com/engreric)
 
 # License.
 MIT License.
