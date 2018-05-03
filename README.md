@@ -21,8 +21,7 @@ As a contributor to this project, you are required to add your name below.
 * Anayo Azuike
 * Abdulazeez Abdulazeez Adeshina
 * [Timothy Ebiuwhe](https://github.com/tandalf)
-* [Fred Adelabu](https://github.com/fredneutron)
-* [Tobi Taiwo (rebirthtobi)](https://github.com/rebirthtobi)
+* [Tobi Taiwo](https://github.com/rebirthtobi)
 
 # License.
 MIT License.
