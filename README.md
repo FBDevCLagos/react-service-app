@@ -1,4 +1,6 @@
 # React service app
+[![Build Status](https://travis-ci.org/FBDevCLagos/react-service-app.svg?branch=master)](https://travis-ci.org/FBDevCLagos/react-service-app)
+
 This project contains resources used in the development and production of the **React service app**. It's an aggregation of the learning efforts of the Facebook Developer Circle Lagos led by the React Team.
 
 # Project Anatomy.
