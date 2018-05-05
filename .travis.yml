@@ -11,6 +11,6 @@ deploy:
   provider: surge
   skip_cleanup: true
   domain: devc-react.surge.sh
-  project: ./build/
+  project: ./src/
 on:
   branch: master
