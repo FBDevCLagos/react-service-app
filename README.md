@@ -4,6 +4,19 @@ This project contains resources used in the development and production of the **
 # Project Anatomy.
 This react app is generated using the *create-react-app* script and is built solely with Javascript.
 
+# Project's Objectives
+Build a web app where services can be offered and rendered.
+
+Two categories of users:
+- User A renders the service.
+- User B finds service.
+
+User A joins/registers the service to be rendered.
+User B does not necessarily need to join. He/She only need to get the list of services available around, search for a particular service around and get directions to User A's location.
+
+## Future Objectives
+User B will be given a link for feedback after being serviced by User A, so we prioritize services with higher ratings. <!-- Others will be stated here -->
+
 # Installing.
 To install and run app, use the command below.
 ```sh
