@@ -18,6 +18,6 @@ const Worker = new schema({
 });
 
 //
-const serviceWorkerModel = mongoose.model('serviceWorker', serviceWorker);
+const serviceWorkerModel = mongoose.model('serviceWorker', Worker);
 
 module.exports = serviceWorkerModel;
