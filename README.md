@@ -43,7 +43,8 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 
 
 _________________________________________________
-|    :---:     |     :---:      |    :---:      |
+|    :---:     |     :---:      |    ola        |
+|______________|________________|_______________|
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
