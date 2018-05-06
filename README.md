@@ -41,6 +41,7 @@ As a contributor to this project, you are required to add your name below.
 * [Okemmadu Eric](https://github.com/engreric)
 * [Timothy Ebiuwhe](https://github.com/tandalf)
 * [Tobi Taiwo](https://github.com/rebirthtobi)
+* [Olamilekan Odukoya](https://github.com/olamilekan000)
 
 # License.
 MIT License.

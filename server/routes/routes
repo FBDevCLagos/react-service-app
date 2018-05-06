@@ -1,0 +1,24 @@
+
+//points to the database schema
+
+import express from 'express';
+import bodyParser from 'body-parser';
+import Worker from '../../models/worker';
+
+const router = express.Router();
+
+router.post('/',(req, res)=>{
+	res.send('TEST');
+});
+
+router.get('/',(req, res)=>{
+	res.send('TEST');
+});
+
+router.put('/',(req, res)=>{
+	res.send('TEST');
+});
+
+router.delete('',(req, res)=>{
+	res.send('TEST');
+});
