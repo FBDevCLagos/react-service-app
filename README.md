@@ -42,7 +42,7 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 
 
 
-
+|              |                |               |
 |    :---:     |     :---:      |    :---:      |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
