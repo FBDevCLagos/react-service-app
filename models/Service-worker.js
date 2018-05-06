@@ -6,7 +6,7 @@ const Schema = mongoose.Schema;
 
 //schema for signing up. Schema's name was based on my discretion.
 
-const Worker = new schema({
+const Worker = new Schema({
 	name:{
 		type: String,
 		required:[true, 'name field is required']
