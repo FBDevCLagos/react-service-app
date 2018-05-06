@@ -42,13 +42,6 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 
 
 
-_________________________________________________
-|    :---:     |     :---:      |    ola        |
-|______________|________________|_______________|
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-
 As a contributor to this project, you are required to add your name below.
 * Anayo Azuike
 * Abdulazeez Abdulazeez Adeshina
