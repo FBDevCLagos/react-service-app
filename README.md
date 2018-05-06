@@ -37,8 +37,9 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-[<img src="https://avatars2.githubusercontent.com/u/33874571?s=400&v=4" width="100px;"/><br /><sub><b>Amadi Lucky Sampson</b></sub>](https://github.com/w3bh4ck)<br/> | [<img src="https://avatars1.githubusercontent.com/u/11753868?s=400&v=4" width="100px;"/><br /><sub><b>Fred Adelabu</b></sub>](https://github.com/fredneutron)<br/> |  :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-[<img src="https://github.com/codingnninja.png" width="100px"><br><sub><b>Ayobami Ogundiran</b></sub>](https://github.com/codingnninja)
+|---|---|---|
+|[<img src="https://avatars2.githubusercontent.com/u/33874571?s=400&v=4" width="100px;"/><br /><sub><b>Amadi Lucky Sampson</b></sub>](https://github.com/w3bh4ck)<br/> | [<img src="https://avatars1.githubusercontent.com/u/11753868?s=400&v=4" width="100px;"/><br /><sub><b>Fred Adelabu</b></sub>](https://github.com/fredneutron)<br/> | [<img src="https://github.com/codingnninja.png" width="100px"><br><sub><b>Ayobami Ogundiran</b></sub>](https://github.com/codingnninja)|
+
 
 As a contributor to this project, you are required to add your name below.
 * Anayo Azuike
