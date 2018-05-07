@@ -33,8 +33,8 @@ React / Javascript best practices must be followed while contributing to this ap
 
 # Contributors List.
 As a contributor to this project, you are required to add your name below.
-* Anayo Azuike
-* Abdulazeez Abdulazeez Adeshina
+* [Anayo Azuike](https://github.com/n4y0d3v)
+* [Abdulazeez Abdulazeez Adeshina](https://github.com/Youngestdev)
 * [Amadi Lucky Sampson ](https://github.com/w3bh4ck)
 * [Fred Adelabu](https://github.com/fredneutron)
 * [Ayobami Ogundiran](https://github.com/codingnninja)
